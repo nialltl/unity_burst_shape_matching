@@ -3,7 +3,7 @@ Burst Softbodies - Parallelised Shape-Matching
 
 This is a commented implementation of the paper **[Meshless Deformations Based on Shape Matching]** in Unity, using the **C# Job System** and **Burst compiler** available in Unity 2018.1 onwards. It also uses **GPU based indirect drawing**, to speedily visualise points pulling from a texture. It can handle several hundred thousand particles in under 16ms (machine-dependent!).
 
-![gif](https://i.imgur.com/DadbwwZ.gif)
+![gif](https://i.imgur.com/VmOgXMR.gif)
 
 [Meshless Deformations Based on Shape Matching]: http://www.matthias-mueller-fischer.ch/publications/MeshlessDeformations_SIG05.pdf
 
